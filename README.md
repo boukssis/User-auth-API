@@ -24,6 +24,6 @@ config - Managing configuration
 
 
 ## What will you need to follow along?
-
+Postman
 Node.js
 MongoDB
